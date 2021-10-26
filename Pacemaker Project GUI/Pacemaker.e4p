@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project Pacemaker -->
+<!-- Saved: 2019-11-19, 17:03:28 -->
+<!-- Copyright (C) 2019 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>326a36e636c0c86d72cebea218f10191f9723712</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>PyQt5</ProjectType>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>Ui_AAI.py</Source>
+    <Source>Ui_AAIR.py</Source>
+    <Source>Ui_AOO.py</Source>
+    <Source>Ui_AOOR.py</Source>
+    <Source>Ui_DDD.py</Source>
+    <Source>Ui_DDDR.py</Source>
+    <Source>Ui_DOO.py</Source>
+    <Source>Ui_DOOR.py</Source>
+    <Source>Ui_VOO.py</Source>
+    <Source>Ui_VOOR.py</Source>
+    <Source>Ui_VVI.py</Source>
+    <Source>Ui_VVIR.py</Source>
+    <Source>Ui_log_in.py</Source>
+    <Source>Ui_mode_select.py</Source>
+    <Source>Ui_sign_up.py</Source>
+    <Source>Ui_welcome.py</Source>
+    <Source>main.py</Source>
+  </Sources>
+  <Forms>
+    <Form>AAI.ui</Form>
+    <Form>AAIR.ui</Form>
+    <Form>AOO.ui</Form>
+    <Form>AOOR.ui</Form>
+    <Form>DDD.ui</Form>
+    <Form>DDDR.ui</Form>
+    <Form>DOO.ui</Form>
+    <Form>DOOR.ui</Form>
+    <Form>VOO.ui</Form>
+    <Form>VOOR.ui</Form>
+    <Form>VVI.ui</Form>
+    <Form>VVIR.ui</Form>
+    <Form>log_in.ui</Form>
+    <Form>mode_select.ui</Form>
+    <Form>sign_up.ui</Form>
+    <Form>welcome.ui</Form>
+  </Forms>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.proto" type="PROTOCOLS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="GNUmakefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="Makefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+    <FiletypeAssociation pattern="makefile" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>
